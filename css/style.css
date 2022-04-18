@@ -1,0 +1,28 @@
+.header{
+    text-align: center;
+}
+.container {
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+}
+.clearfix{
+    content: '';
+    display: block;
+    clear: both;
+}
+.element{
+    float: left;
+    width: 50%;
+}
+
+.img{
+    float: left;
+    width: 20%;
+}
+img{
+    width: 100%;
+}
+.item{
+    padding: 30px;
+}
